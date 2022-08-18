@@ -1,4 +1,4 @@
-    
+
 CREATE TABLE students (
     student_id INT,
     first_name VARCHAR(45),
